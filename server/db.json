@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "Lamine Fall",
+      "email": "falllamine01@gmail.com",
+      "id": "1"
+    },
+    {
+      "name": "Moussa Diop",
+      "email": "diopmoussa@gmail.com",
+      "id": "2"
+    },
+    {
+      "id": "4",
+      "name": "Malick ndiaye",
+      "email": "ndiayemalick@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Amet Mané",
+      "email": "maneamet01@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "Amar Sarr",
+      "email": "sarramar@gmail.com"
+    }
+  ]
+}
